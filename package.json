@@ -1,0 +1,15 @@
+{
+  "name": "express-json-validator",
+  "version": "0.1.0",
+  "description": "Minimalistic JSON validator for incoming RESTful API's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express-json",
+    "schema-validator"
+  ],
+  "author": "Ayush Agrawal",
+  "license": "ISC"
+}
